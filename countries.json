@@ -1,0 +1,221 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Austria",
+        "capital": "Vienna",
+        "population": 8901064,
+        "currency": "Euro (€)",
+        "language": "German"
+      },
+      {
+        "id": 2,
+        "name": "Belgium",
+        "capital": "Brussels",
+        "population": 11539328,
+        "currency": "Euro (€)",
+        "language": "Dutch, French, German"
+      },
+      {
+        "id": 3,
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "population": 7000039,
+        "currency": "Bulgarian Lev (лв)",
+        "language": "Bulgarian"
+      },
+      {
+        "id": 4,
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "population": 4067500,
+        "currency": "Croatian Kuna (kn)",
+        "language": "Croatian"
+      },
+      {
+        "id": 5,
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "population": 875900,
+        "currency": "Euro (€)",
+        "language": "Greek, Turkish"
+      },
+      {
+        "id": 6,
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "population": 10649800,
+        "currency": "Czech Koruna (Kč)",
+        "language": "Czech"
+      },
+      {
+        "id": 7,
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "population": 5792202,
+        "currency": "Danish Krone (kr)",
+        "language": "Danish"
+      },
+      {
+        "id": 8,
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "population": 1324820,
+        "currency": "Euro (€)",
+        "language": "Estonian"
+      },
+      {
+        "id": 9,
+        "name": "Finland",
+        "capital": "Helsinki",
+        "population": 5527573,
+        "currency": "Euro (€)",
+        "language": "Finnish, Swedish"
+      },
+      {
+        "id": 10,
+        "name": "France",
+        "capital": "Paris",
+        "population": 67341350,
+        "currency": "Euro (€)",
+        "language": "French"
+      },
+      {
+        "id": 11,
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": 83122889,
+        "currency": "Euro (€)",
+        "language": "German"
+      },
+      {
+        "id": 12,
+        "name": "Greece",
+        "capital": "Athens",
+        "population": 10718565,
+        "currency": "Euro (€)",
+        "language": "Greek"
+      },
+      {
+        "id": 13,
+        "name": "Hungary",
+        "capital": "Budapest",
+        "population": 9778371,
+        "currency": "Hungarian Forint (Ft)",
+        "language": "Hungarian"
+      },
+      {
+        "id": 14,
+        "name": "Ireland",
+        "capital": "Dublin",
+        "population": 4947267,
+        "currency": "Euro (€)",
+        "language": "Irish, English"
+      },
+      {
+        "id": 15,
+        "name": "Italy",
+        "capital": "Rome",
+        "population": 60367448,
+        "currency": "Euro (€)",
+        "language": "Italian"
+      },
+      {
+        "id": 16,
+        "name": "Latvia",
+        "capital": "Riga",
+        "population": 1886198,
+        "currency": "Euro (€)",
+        "language": "Latvian"
+      },
+      {
+        "id": 17,
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "population": 2793471,
+        "currency": "Euro (€)",
+        "language": "Lithuanian"
+      },
+      {
+        "id": 18,
+        "name": "Luxembourg",
+        "capital": "Luxembourg City",
+        "population": 633622,
+        "currency": "Euro (€)",
+        "language": "Luxembourgish, French, German"
+      },
+      {
+        "id": 19,
+        "name": "Malta",
+        "capital": "Valletta",
+        "population": 514564,
+        "currency": "Euro (€)",
+        "language": "Maltese, English"
+      },
+      {
+        "id": 20,
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "population": 17181084,
+        "currency": "Euro (€)",
+        "language": "Dutch"
+      },
+      {
+        "id": 21,
+        "name": "Poland",
+        "capital": "Warsaw",
+        "population": 38433600,
+        "currency": "Polish Złoty (zł)",
+        "language": "Polish"
+      },
+      {
+        "id": 22,
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "population": 10349803,
+        "currency": "Euro (€)",
+        "language": "Portuguese"
+      },
+      {
+        "id": 23,
+        "name": "Romania",
+        "capital": "Bucharest",
+        "population": 19679306,
+        "currency": "Romanian Leu (lei)",
+        "language": "Romanian"
+      },
+      {
+        "id": 24,
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "population": 5450421,
+        "currency": "Euro (€)",
+        "language": "Slovak"
+      },
+      {
+        "id": 25,
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "population": 2066880,
+        "currency": "Euro (€)",
+        "language": "Slovenian"
+      },
+      {
+        "id": 26,
+        "name": "Spain",
+        "capital": "Madrid",
+        "population": 46754778,
+        "currency": "Euro (€)",
+        "language": "Spanish"
+      },
+      {
+        "id": 27,
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "population": 10323295,
+        "currency": "Swedish Krona (kr)",
+        "language": "Swedish"
+      }
+    ]
+  }
+  
